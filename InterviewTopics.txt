@@ -1,0 +1,4 @@
+Mutable - String -> change -> StringBuilder or StringBuffer
+Immutable - String -> Unchange.
+Final keyword is sealed.
+
